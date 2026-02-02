@@ -86,7 +86,6 @@ plt.show()
 
 <img width="515" height="523" alt="image" src="https://github.com/user-attachments/assets/bc61524c-72b1-4330-a80b-bde67abf9029" />
 
-#### 8. Load the image
 ```python
 # Load the image
 image = cv2.imread('photo.jpeg')
