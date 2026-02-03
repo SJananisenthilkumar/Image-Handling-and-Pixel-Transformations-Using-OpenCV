@@ -34,7 +34,7 @@ Split the image (boy.jpg) into B, G, R components and display the channels
  ## Name:JANANI S 
  ## Register Number:212223230086
 
-  ### Ex. No. 01
+  ## Ex. No. 01
 ```
 import cv2
 import matplotlib.pyplot as plt
